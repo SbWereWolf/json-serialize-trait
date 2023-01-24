@@ -45,5 +45,7 @@ phone +7-902-272-65-35
 Telegram @sbwerewolf
 ```
 
-[Telegram chat with me](https://t.me/SbWereWolf)
-[WhatsApp chat with me](https://wa.me/79022726535) 
+Chat with me via messenger
+
+- [Telegram chat with me](https://t.me/SbWereWolf)
+- [WhatsApp chat with me](https://wa.me/79022726535) 
