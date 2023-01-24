@@ -4,6 +4,7 @@ Library with trait of ability to output all properties
 of class-exemplar at call json_encode()
 
 ## How to install
+`composer require sbwerewolf/json-serialize-trait`
 
 ## How to use
 
